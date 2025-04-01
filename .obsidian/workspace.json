@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "af16bc1086c81800",
+        "id": "d9143b8a492a59ec",
         "type": "tabs",
         "children": [
           {
-            "id": "ce3c85c0d33fb58b",
+            "id": "81625a106a8f67c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,22 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Rust Learning HUB"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d748cf8f970b93be",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eb8c5fd24826ce8a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -184,11 +168,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ce3c85c0d33fb58b",
+  "active": "81625a106a8f67c4",
   "lastOpenFiles": [
-    "Templates/Rust note Template.md",
+    "Notes/202504011730 - Enums and Pattern Matching.md",
     "Index/Rust Learning HUB.md",
+    "Notes/202504011715 - Structs.md",
+    "Notes/202504011700 - Ownership and Borrowing.md",
+    "Notes/Stack vs heap.md",
+    "Notes/Borrowing.md",
+    "Notes/Ownership.md",
+    "Templates/Rust note Template.md",
     "Welcome.md",
+    "Notes/202504012230 - Interfacing with C.md",
+    "Notes/202504012215 - Building Libraries and Crates.md",
+    "Notes/202504012200 - Unsafe Rust.md",
+    "Notes/202504012145 - Macros.md",
+    "Notes/202504012130 - Async and Await.md",
+    "Notes/202504012115 - Concurrency.md",
+    "Notes/202504012100 - Smart Pointers.md",
+    "Notes/202504011815 - Modules and Project Structure.md",
+    "Notes/Rust Advanced/202504012100 - Smart Pointers.md",
+    "Notes/Rust Advanced",
+    "Notes/Rust Intermediate/202504011815 - Modules and Project Structure.md",
+    "Notes/Rust Intermediate",
+    "Notes/202504011600 - Variables and Mutability.md",
+    "Notes/202504011645 - Control Flow.md",
+    "Notes/202504012030 - Closures.md",
+    "Notes/202504012015 - Lifetimes.md",
+    "Notes/202504012000 - Traits and Generics.md",
+    "Notes/202504011845 - Error Handling.md",
+    "Notes/202504011830 - Collections.md",
     "Index",
     "Notes",
     "Templates",
