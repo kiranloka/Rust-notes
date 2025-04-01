@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "44811bb6ec184f1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "af16bc1086c81800",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce3c85c0d33fb58b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Index/Rust Learning HUB.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust Learning HUB"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d748cf8f970b93be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eb8c5fd24826ce8a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb71646ad7f5d519",
+    "type": "split",
+    "children": [
+      {
+        "id": "be4e93ba6720cebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f53a9b990e81ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "921efd6238b25754",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b0a5b8e20d0ef739",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "70d49515f7cbf02e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a35839de33cf9254",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "114aed8b80428d2c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Index/Rust Learning HUB.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rust Learning HUB"
+            }
+          },
+          {
+            "id": "96de2a92745c8e1a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Index/Rust Learning HUB.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rust Learning HUB"
+            }
+          },
+          {
+            "id": "d23b41afc8483212",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "288c15186154df22",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Index/Rust Learning HUB.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Rust Learning HUB"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ce3c85c0d33fb58b",
+  "lastOpenFiles": [
+    "Templates/Rust note Template.md",
+    "Index/Rust Learning HUB.md",
+    "Welcome.md",
+    "Index",
+    "Notes",
+    "Templates",
+    "Inbox"
+  ]
+}
