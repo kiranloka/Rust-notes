@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/202504011800 - Strings and Text Processing.md",
+                "file": "Index/Rust Learning HUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "202504011800 - Strings and Text Processing"
+              "title": "Rust Learning HUB"
             }
           }
         ],
@@ -185,7 +185,11 @@
   },
   "active": "56eab1f902966e38",
   "lastOpenFiles": [
+    "Notes/Project Structure in rust.md",
+    "Notes/202504011815 - Modules and Project Structure.md",
     "Index/Rust Learning HUB.md",
+    "Notes/2025-04-03.md",
+    "Notes/202504011800 - Strings and Text Processing.md",
     "Notes/202504011730 - Enums and Pattern Matching.md",
     "Notes/202504011715 - Structs.md",
     "Notes/202504011700 - Ownership and Borrowing.md",
@@ -201,7 +205,6 @@
     "Notes/202504012130 - Async and Await.md",
     "Notes/202504012115 - Concurrency.md",
     "Notes/202504012100 - Smart Pointers.md",
-    "Notes/202504011815 - Modules and Project Structure.md",
     "Notes/Rust Advanced/202504012100 - Smart Pointers.md",
     "Notes/Rust Advanced",
     "Notes/Rust Intermediate/202504011815 - Modules and Project Structure.md",
@@ -210,9 +213,6 @@
     "Notes/202504011645 - Control Flow.md",
     "Notes/202504012030 - Closures.md",
     "Notes/202504012015 - Lifetimes.md",
-    "Notes/202504012000 - Traits and Generics.md",
-    "Notes/202504011845 - Error Handling.md",
-    "Notes/202504011830 - Collections.md",
     "Index",
     "Notes",
     "Templates",
