@@ -1,4 +1,6 @@
-ust projects are organized as crates (either binaries or libraries), managed by Cargo, Rust’s build tool and package manager. This contrasts with Turborepo’s monorepo structure, where multiple apps and packages coexist. Let’s explore common layouts.
+#intermediate #rust #structure
+
+Rust projects are organized as crates (either binaries or libraries), managed by Cargo, Rust’s build tool and package manager. This contrasts with Turborepo’s monorepo structure, where multiple apps and packages coexist. Let’s explore common layouts.
 
 1. Single Binary Crate
 
